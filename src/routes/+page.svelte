@@ -36,6 +36,7 @@
     url: "https://taixiu-17.vercel.app/",
     type: "website",
     image: "https://i.ibb.co/XzkSFqv/tai-xiu-og-2.jpg",
+    site_name: "Tài xỉu 17",
   }}
   twitter={{
     card: "summary_large_image",
